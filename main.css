@@ -1,0 +1,12 @@
+
+li {
+    padding: 0.1rem 1.25rem !important;
+}
+
+.card {
+    margin-bottom: 8px;
+}
+
+.delete {
+    display: none;
+}
